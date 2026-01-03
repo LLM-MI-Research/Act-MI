@@ -21,8 +21,6 @@
   - [3. Improve Efficiency](#3-improve-efficiency)
     - [Efficient Training](#efficient-training)
     - [Efficient Inference](#efficient-inference)
-- [Citation](#-citation)
-- [Contact](#-contact)
 
 ## 📖 Overview
 
