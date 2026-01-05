@@ -40,7 +40,7 @@ To help navigate the paper list, we use the following abbreviations for Objects,
 
 ### Interpretable Objects
 
-The core interpretable object in our survey is shown below:
+The core interpretable objects in our survey are shown below:
 
 <div align="center">
   <img src="assets/notation.png" width="350">
