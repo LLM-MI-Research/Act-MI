@@ -41,6 +41,7 @@ To help navigate the paper list, we use the following abbreviations for Objects,
 ### Interpretable Objects
 
 The core interpretable object in our survey is shown below:
+
 ![Notation](assets/notation.png){width=400px}
 
 ### Localizing Methods (How to find it?)
