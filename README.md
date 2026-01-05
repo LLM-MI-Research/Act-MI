@@ -24,7 +24,7 @@
 
 ## 📖 Overview
 
-![Overview Figure](assets/overview_figure.png)
+![Overview Figure](assets/overview_figure.png){width=620px}
 
 *Note: The figure illustrates our framework: **Locate** (Identifying internal objects), **Steer** (Manipulating behaviors), and **Improve** (Downstream applications).*
 
@@ -41,7 +41,7 @@ To help navigate the paper list, we use the following abbreviations for Objects,
 ### Interpretable Objects
 
 The core interpretable object in our survey is shown below:
-![Notation](assets/notation.png)
+![Notation](assets/notation.png){width=400px}
 
 ### Localizing Methods (How to find it?)
 - **Magnitude Analysis**: Weights or activation magnitude analysis, training-free but
